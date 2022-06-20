@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622750742 source:d:\fci\3th year\t #2\compilers\a2\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
+1622750742 source:d:\fci\years\3th year\t #2\compilers\assignments\compiler-assigments\assignment 2\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
